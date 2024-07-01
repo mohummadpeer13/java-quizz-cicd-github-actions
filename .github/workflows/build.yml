@@ -29,4 +29,4 @@ jobs:
         port: ${{ secrets.OWNPORT }}
         
         #script à exécuter
-        script: mkdir -p /home/vagrant/quizz
+        script: mkdir -p /opt/applications/quizz
