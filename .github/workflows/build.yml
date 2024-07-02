@@ -68,5 +68,5 @@ jobs:
         username: ${{ secrets.OWNUSERNAME }}
         password: ${{ secrets.OWNPASSWORD }}
         port: ${{ secrets.OWNPORT }}
-        source: "target/ROOT.war"
+        source: "target/java-quizz.war"
         target: /opt/applications/quizz
