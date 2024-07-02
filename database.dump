@@ -16,7 +16,7 @@ CREATE TABLE public.question
 );
 
 INSERT INTO question 
-	(category, difficulty_level, option1, option2, option3, option4, question_title, right_answer)
+	(category, difficultylevel, option1, option2, option3, option4, question_title, right_answer)
 	VALUES 
 	('Java', 'Easy', 'class', 'interface', 'extends', 'implements', 'Which Java keyword is used to create a subclass?', 'extends'),
 	('Java', 'Easy', '4', '5', '6', 'Compile error', 'What is the output of the following Java code snippet? \nint x = 5; \nSystem.out.println(x++);', '5'),
