@@ -11,7 +11,7 @@ CREATE TABLE public.question
     option3 TEXT NOT NULL,
     option4 TEXT NOT NULL,
     right_answer TEXT NOT NULL,
-    difficulty_level TEXT NOT NULL,
+    difficultylevel TEXT NOT NULL,
     category TEXT NOT NULL
 );
 
