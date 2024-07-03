@@ -25,7 +25,7 @@
 		<connection/>
 		<developerConnection/>
 		<tag/>
-		<url>http://192.168.121.162:8080/hello</url>
+		<url/>
 	</scm>
 	<properties>
 		<java.version>17</java.version>

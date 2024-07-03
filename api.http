@@ -4,7 +4,7 @@ GET http://localhost:8080/questions HTTP/1.1
 
 ###
 
-GET http://localhost:8080/questions/category/Devops HTTP/1.1
+GET http://localhost:8080/questions/category/NETOPS HTTP/1.1
 
 ###
 
@@ -19,5 +19,5 @@ content-type: application/json
     "option4": "libvirt",
     "rightAnswer": "virt-manager",
     "difficultylevel": "hight",
-    "category": "Devops"
+    "category": "NETOPS"
   }
